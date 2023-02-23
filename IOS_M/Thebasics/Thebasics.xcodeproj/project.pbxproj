@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E6565A8829771B1500429FD3 /* thepractice.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = thepractice.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E6565A8129771ADA00429FD3 = {
+			isa = PBXGroup;
+			children = (
+				E6565A8829771B1500429FD3 /* thepractice.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E6565A8229771ADA00429FD3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = E6565A8529771ADA00429FD3 /* Build configuration list for PBXProject "Thebasics" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E6565A8129771ADA00429FD3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E6565A8629771ADA00429FD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E6565A8729771ADA00429FD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E6565A8529771ADA00429FD3 /* Build configuration list for PBXProject "Thebasics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E6565A8629771ADA00429FD3 /* Debug */,
+				E6565A8729771ADA00429FD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E6565A8229771ADA00429FD3 /* Project object */;
+}
